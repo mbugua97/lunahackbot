@@ -1,7 +1,7 @@
 from github import Github
 from datetime import datetime, timedelta
 
-access_token = "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"
+access_token = ""
 g = Github(access_token)
 
 owner = "mbugua97"
